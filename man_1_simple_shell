@@ -11,17 +11,17 @@ The simple shell is a program that takes commands from the keyboard and gives th
 .SH EXAMPLES
 $ ./hsh
  simple@shell $ /bin/ls
- README.md exec.c holberton.h main.c prompt.c
+ README.md exec.c main.h main.c prompt.c
  simple@shell $
  simple@shell $ exit
  $
 .PP
  $ echo "/bin/ls" | ./hsh
- README.md exec.c holberton.h main.c prompt.c
+ README.md exec.c main.h main.c prompt.c
  $
 .SH SEE ALSO
 sh(1)
 .SH BUGS
 Keep in mind this is still a Work in progress and does not have fully functionality of a shell
 .SH AUTHORS
-Written by Geraldinne Bohórquez & Diego Monroy
+Written by Dovine Owuor & Oke Oletunji

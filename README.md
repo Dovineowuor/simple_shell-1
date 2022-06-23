@@ -36,7 +36,7 @@ Installed gcc (GNU Compiler Collection) version 4.8.4 or newer.
 ## Example:hammer_and_wrench:
 ### Clone repo using HTTPS
 ```
-$ git clone https://github.com/geraldinnebohr/simple_shell.git
+$ git clone https://github.com/dovineowuor/simple_shell.git
 ```
 
 ### Compilation
@@ -50,7 +50,7 @@ Enter the interactive mode after compilation:
 ```bash
 $ ./hsh
  simple@shell $ /bin/ls
- README.md exec.c holberton.h main.c prompt.c
+ README.md exec.c main.h main.c prompt.c
  simple@shell $
  simple@shell $ exit
 $
@@ -63,9 +63,9 @@ Create a new branch with the name of your feature or fix and make a pull request
 ---
 
 ## Authors
-* **Geraldinne Bohórquez** - [geraldinnebohr](https://github.com/geraldinnebohr)
-* **Diego Monroy** (@diegozencode) - [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://diegozencode.github.io/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/diegozencode)
-[<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegozencode)
-[<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/diegozencode)
+* **Dovine Owuor** - [Dovineowuor](https://github.com/dovineowuor)
+* **Oke Oletunji** (Okeoletunji) - [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://dovineowuor.github.io/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/doveowuor)
+[<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/Dovine-Owuor)
+[<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Dovineowuor)
 
